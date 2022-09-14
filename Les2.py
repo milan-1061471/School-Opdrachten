@@ -1,5 +1,8 @@
 # Les 2
 # Integers
+
+import math
+
 people = 7861304740
 print(people)
 people = 7_861_304_740
